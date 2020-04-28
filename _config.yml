@@ -1,6 +1,6 @@
 # main text of home
-name: Amirali Aghazadeh
-bio: Postdoc at University of California, Berkeley
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,16 +8,16 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/photo.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: assets/cv/CV_Amirali_Aghazadeh.pdf
+resume-external: true
+resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
@@ -34,56 +34,57 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-twitter: amiraliagz
+facebook: myfacebook
+twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: amiralia
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: amirmohan
+github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: amiralia@berkeley.edu
+email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: Amirali Aghazadeh
-        bio: Postdoc at University of California, Berkeley
-        external-image: false
-        picture: assets/images/photo.jpg
-        twitter: amiraliagz
-
+  johndoe:
+    name: John Doe
+    bio: A Man who travels the world eating noodles
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: johndoe
+  jamesfoster:
+    name: James Foster
+    bio: A Man who develops software with coffee
+    external-image: false
+    picture: assets/images/james.jpg
+    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-    enabled: false
-    sort_reverse: true # display recent posts first
-    title: ':title' # Changing this will mess up the header display logic
-    per_page: 5 
-    permalink: "/:num/" # pagination link that will be appended
-
-
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+  enabled: false
+  sort_reverse: true # display recent posts first
+  title: ":title" # Changing this will mess up the header display logic
+  per_page: 5
+  permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
-research: true
-
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -105,15 +106,14 @@ animation: true
 
 # add default values to specific pages or layouts
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       layout: "post"
     values:
-      # setting all post to not hidden by default, 
+      # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
-      hidden: false 
-      
+      hidden: false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
@@ -121,16 +121,23 @@ plugins:
   - jemoji
   - jekyll-admin
   - jekyll-paginate-v2
-  - jekyll-fontawesome-svg
-
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 compress_html:
-    ignore:
-        envs:
-        - development
-        - stage
+  ignore:
+    envs:
+      - development
+      - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "node_modules", "vendor"]
+exclude:
+  [
+    "travis.sh",
+    "README.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "FAQ.md",
+    "node_modules",
+    "vendor",
+  ]
