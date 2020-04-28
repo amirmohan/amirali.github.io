@@ -125,7 +125,7 @@ plugins:
 
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://amirmohan.github.io/amirali.github.io/
 
 compress_html:
     ignore:
