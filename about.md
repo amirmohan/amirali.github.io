@@ -4,43 +4,41 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<br>
+<p><font size="+1"> <strong>Amirali Aghazadeh</strong> </font> <br>
+<font size="+1"> <strong>Postdoctoral Associate</strong> </font> <br> 
+<font size="+1"> <strong>University of California, Berkeley</strong> </font>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
-
+<h2>Education</h2>
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+        <li>Postdoc EECS, University of California, Berkeley</li>
+        <li>2019 Postdoc EE, Stanford University</li>
+        <li>2017 Ph.D. ECE, Rice University</li>
+        <li>2014 M.Sc. ECE, Rice University</li>
+	<li>2010 B.Sc. EE, Sharif University</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Research Interests</h2>
+<ul class="skill-list">
+        <li>Machine Learning, Statistical Signal Processing, Large-scale Optimization, Deep Learning</li>
+        <li>Applications: Genomics, Health, and Medicine</li>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+
+
+<h2>Biography</h2>
+<p>I am a Postdoctoral Associate at the University of Californina, Berkeley in the department of Electrical Engineering and Computer Science (EECS), where I am fortunate to work with <b>Prof. Kannan Ramchandran</b>. Prior to that, I was a Postdoctoral Associate at Stanford University in the department of Electrical Engineering with <b>Prof. David Tse</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at Rice University with <b>Prof. Richard Baraniuk</b>. I did my undergradute studies in Electrical Engineering department at Sharif University of Technology.</p>
+
+<h2>Selected Awards</h2>
+<ul class="skill-list">
+        <li>2017 Hershel M. Rich Invention Award</li>
+        <li>2017 Schlumberger Best PhD Presenter Award</li>
+        <li>2013 NASA Space Health Innovation Award</li>
+        <li>2010 Texas Instruments Fellowship</li>
+
+</ul>
+
+
+
+
