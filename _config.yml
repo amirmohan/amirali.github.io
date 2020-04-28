@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/cv/CV_Amirali_Aghazadeh.pdf
 
-url: https://amirmohan.github.io/amirali.github.io/
+url: https://amirmohan.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -125,7 +125,7 @@ plugins:
 
 
 jekyll-mentions:
-    base_url: https://amirmohan.github.io/amirali.github.io/
+    base_url: https://amirmohan.github.io/
 
 compress_html:
     ignore:
