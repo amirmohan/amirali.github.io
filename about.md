@@ -28,7 +28,7 @@ layout: page
 
 
 <h2>Biography</h2>
-<p>I am a Postdoctoral Associate at the University of Californina, Berkeley in the department of Electrical Engineering and Computer Science (EECS), where I am fortunate to work with <b>Prof. Kannan Ramchandran</b>. Prior to that, I was a Postdoctoral Associate at Stanford University in the department of Electrical Engineering with <b>Prof. David Tse</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at Rice University with <b>Prof. Richard Baraniuk</b>. I did my undergradute studies in Electrical Engineering department at Sharif University of Technology.</p>
+<p>I am a Postdoctoral Associate at the University of California, Berkeley in the department of Electrical Engineering and Computer Science (EECS), where I am fortunate to work with <b>Prof. Kannan Ramchandran</b>. Prior to that, I was a Postdoctoral Associate at Stanford University in the department of Electrical Engineering with <b>Prof. David Tse</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at Rice University with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in Electrical Engineering department at Sharif University of Technology.</p>
 
 <h2>Selected Awards</h2>
 <ul class="skill-list">
