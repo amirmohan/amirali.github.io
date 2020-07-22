@@ -21,8 +21,8 @@ layout: page
 
 <h2>Research Interests</h2>
 <ul class="skill-list">
-        <li>Machine Learning, Statistical Signal Processing, Large-scale Optimization, Deep Learning</li>
-        <li>Applications: Genomics, Health, and Medicine</li>
+        <li>Machine Learning, Signal Processing, Algorithms, Optimization, Combinatorics, Deep Learning</li>
+        <li>Applications: Molecular Biology, Chemistry, Science</li>
 
 </ul>
 
