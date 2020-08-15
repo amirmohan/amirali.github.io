@@ -122,6 +122,8 @@ plugins:
   - jekyll-admin
   - jekyll-paginate-v2
   - jekyll-fontawesome-svg
+  - jekyll-paginate
+  - jekyll-sitemap
 
 
 jekyll-mentions:
