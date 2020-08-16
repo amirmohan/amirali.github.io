@@ -12,7 +12,7 @@ layout: page
 <hr>
 
 <h2>Research Interests</h2>
-<p align="justify"> My expertise is in <b>machine learning</b>, <b>signal processing</b>, <b>inverse problems</b> and <b>computational biology</b>. I exploit the hidden structures in the signals acquired from the world around us to design <b>scalable algorithms</b> that address pressing computational problems in <b>science</b> and <b>engineering</b>. My research contributes to and draws from several other disciplines such as streaming, convex optimization, probabilistic modeling, coding theory, and distributed computing. Currently, I am working on the combinatorial aspects of <b>deep neural networks</b> to develop scalable methods for <b>protein design</b> and <b>CRISPR</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
+<p align="justify"> My expertise is in <b>machine learning</b>, <b>signal processing</b>, <b>inverse problems</b> and <b>computational biology</b>. I exploit the hidden structures in the signals acquired from the world around us to design <b>scalable algorithms</b> that address <b>fundamental computational problems</b> in <b>science</b> and <b>engineering</b>. My research contributes to and draws from several other disciplines such as streaming, convex optimization, probabilistic modeling, coding theory, and distributed computing. Currently, I am working on the combinatorial aspects of <b>deep neural networks</b> to develop scalable methods for <b>protein design</b> and <b>CRISPR</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
 
 <hr>
 
