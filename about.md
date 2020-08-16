@@ -4,12 +4,17 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<hr>
 
 <h2>Biography</h2>
 <p align="justify"> I am a postdoctoral associate at the <b>University of California, Berkeley</b> in the department of Electrical Engineering and Computer Science (EECS). I work with <b>Prof. Kannan Ramchandran</b> in the Berkeley Laboratory for Information and System Sciences (BLISS). I also collaborate with <b>Prof. Jennifer Listgarten</b> in the Berkeley Artificial Intelligence Research (BAIR) lab. Prior to that, I was a Postdoctoral Associate at <b>Stanford University</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at <b>Rice University</b> with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in Electrical Engineering department at <b>Sharif Univsersity of Technology</b>.</p>
 
+<hr>
+
 <h2>Research Interests</h2>
 <p align="justify"> My expertise is in <b>machine learning</b>, <b>signal processing</b>, <b>inverse problems</b> and <b>computational biology</b>. I exploit the hidden structures in the signals acquired from the world around us to design <b>scalable algorithms</b> that address pressing problems in <b>science</b> and <b>technology</b>. My research contributes to and draws from several other disciplines such as streaming, convex optimization, probabilistic modeling, coding theory, and distributed computing. Recently, I have been working on the combinatorial aspects of <b>deep neural networks</b> trained on sets to develop scalable methods for <b>protein design</b> and <b>CRISPR</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
+
+<hr>
 
 <h2>Education</h2>
 <ul class="skill-list">
@@ -20,7 +25,7 @@ layout: page
 	<li><b>2006-2010</b>  B.Sc. EE, Sharif University</li>
 </ul>
 
-
+<hr>
 
 <h2>Selected Awards</h2>
 <ul class="skill-list">
@@ -31,6 +36,8 @@ layout: page
         <li><b>2010</b> Texas Instruments Fellowship</li>
 
 </ul>
+
+<hr>
 
 <h2>News</h2>
 <ul class="skill-list">
