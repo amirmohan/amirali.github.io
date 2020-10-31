@@ -41,8 +41,10 @@ layout: page
 
 <h2>News</h2>
 <ul class="skill-list">
+<li><b>October 2020</b> BEAR is now on arXiv! <a href="https://arxiv.org/abs/2010.13829">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>.
 <li><b>August 2020</b> I will be presenting a spotlight talk on <u>Black-box Interpretaion of Neural Networks using Sparse-Fourier algorithms</u> at the <b>Fall 2020 BAIR/BDD Workshop</b>.
 <li><b>July 2020</b> I will be presenting <u>CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</u> at the <b>ISMB conference</b>. 
+<li><b>July 2020</b> CRISPRLand got accepted to the <b>ISMB conference</b>, find the draft at <b>Bioinformatics</b> <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i560/5870525">CRISPRL and: Interpretable large-scale inference of DNA repair landscape based on a spectral approach</a>.
 
 
 
