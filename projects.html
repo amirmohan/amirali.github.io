@@ -7,6 +7,8 @@ title: Projects
 <br>
 <br>
 
+
+
 <hr>
 
 <div>
@@ -18,16 +20,47 @@ title: Projects
 
 
     <div class="toright">
-        <p align="justify"> <b>CRISPRLand</b> is a spectral platform to analyze the machine learning algorithms trained on the samples from the fitness landscape of DNA repair after CAS9-induced breaks in the Walsh-Hadamard (Fourier) domain. CRISPRLand results in an exponential speed-up in inferring the DNA repair landscape and reduction in sample complexity (CRISPR experiments).
+        <p align="justify"> <b>CRISPRLand</b> is a spectral platform to analyze the machine learning models trained on the samples from the fitness landscape of DNA repair after CAS9-induced breaks, in the Walsh-Hadamard (Fourier) domain. CRISPRLand explains the black-box machine learning models in terms of (higher-order) interactions in the sequence around the cut site. CRISPRLand also infers the entire DNA repair landscape with an exponential speed-up compared to conventional methods.
         </p>
            
                 
-                [C1] <b>A. Aghazadeh</b>, Orhan Ocal, and Kannan Ramchandran, <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/gencompbio">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Intelligent Systems for Molecular Biology (ISMB)</em>, July 2020. <br><br>
+                [C1] <b>A. Aghazadeh</b>, O. Ocal, and K. Ramchandran, <a href="https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/gencompbio">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Intelligent Systems for Molecular Biology (ISMB)</em>, July 2020. <br><br>
                 
-                [C2] <b>A. Aghazadeh</b>, Orhan Ocal, and Kannan Ramchandran, <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i560/5870525">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Bioinformatics</em>, July 2020. <br><br>
+                [C2] <b>A. Aghazadeh</b>, O. Ocal, and K. Ramchandran, <a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i560/5870525">CRISPRLand: Interpretable Large-Scale Inference of DNA Repair Landscape Based on a Spectral Approach</a>, <em> Bioinformatics</em>, July 2020. <br><br>
         
         
         <a href="https://github.com/UCBASiCS/CRISPRLand">Code on Github</a> <br>
+
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<hr>
+
+<div>
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="../assets/images/bear.jpg" alt="Alt Text" width="500">
+            <figcaption class="caption"> Optimization landscape. Figure adapted from A. Amini et al. “Spatial Uncertainty Sampling for End-to-End Control”. NeurIPS Bayesian Deep Learning 2018.</figcaption>
+    </div>
+
+
+    <div class="toright">
+        <p align="justify"> <b>BEAR</b> is a second-order optimization algorithm for ultra-high dimensional feature selection using sub-linear memory. BEAR limits the rate of collisions of the stochastic gradients in Count Sketch and significantly improves the memory-accuracy tradeoff in feature selection.
+        </p>
+           
+                
+                [S2] <b>A. Aghazadeh</b>, V. Gupta, A. Dewasee, O. Koyluoglu, and K. Ramchandran, <a href="https://arxiv.org/abs/2010.13829">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>, <em>Submitted</em>. <br> <br>
+
+        
+        <a href=" https://github.com/BEAR-algorithm/BEAR">BEAR Code on Github</a>
 
         
     </div>
@@ -81,17 +114,16 @@ title: Projects
 
 
     <div class="toright">
-        <p align="justify"> <b>MISSION</b> is a first-order and <b>BEAR</b> is a second-order optimization algorithm for  <em>sublinear-memory</em> <b>feature selection</b> in massively high-dimensional datasets. The key idea behind these algorithms is to store and iteratively update the model parameters in an efficient data structure from streaming called <em>Count Sketch</em>.
+        <p align="justify"> <b>MISSION</b> is a first-order optimization algorithm for  <em>sublinear-memory</em> <b>feature selection</b> in massively high-dimensional datasets. The key idea behind these algorithms is to store and iteratively update the model parameters in an efficient data structure from streaming called <em>Count Sketch</em>.
         </p>
         
                 
         [S1] <b>A. Aghazadeh</b>*, R. Spring*, D. LeJeune, G. Dasarathy, A. Shrivastava and R. G. Baraniuk, <a href="https://icml.cc/Conferences/2018/ScheduleMultitrack?event=2916">MISSION: Ultra Large-Scale Feature Selection using Count Sketches</a>, <em>International Conference on Machine Learning (ICML)</em>, July 2018. <br>  <br>
         
-        
-        [S2] <b>A. Aghazadeh</b>, V. Gupta, A. Dewasee, O. Koyluoglu, and K. Ramchandran, BEAR: Sketching BFGS Algorithm for Feature Selection with Sublinear Memory, <em>Submitted</em>. <br> <br>
+    
         
         <a href="https://github.com/rdspring1/MISSION">MISSION Code on Github</a> <br>
-        <a href=" https://github.com/BEAR-algorithm/BEAR">BEAR Code on Github</a>
+
         
     </div>
 </div>
@@ -219,9 +251,9 @@ title: Projects
         </p>
         
         
-        [S1] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, and R. G. Baraniuk, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327018304898">Sparsity-based data-driven approaches for damage detection in plates</a>, <em>Mechanical System and Signal Processing</em> 117, 333-346 (2019). <br> <br>
+        [S1] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, and R. G. Baraniuk, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327018304898">Sparsity-based data-driven approaches for damage detection in plates</a>, <em>Mechanical System and Signal Processing (MSSP)</em> 117, 333-346 (2019). <br> <br>
             
-        [S2] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, R. G. Baraniuk, and Anand Dabak, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327019303784">Data-driven approaches to structural health monitoring of steel pipes</a>, <em>Mechanical System and Signal Processing</em> 131, 524-537 (2019).
+        [S2] D. Sen, <b>A. Aghazadeh</b>, A. Mousavi, S. Nagarajaiah, R. G. Baraniuk, and Anand Dabak, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327019303784">Data-driven approaches to structural health monitoring of steel pipes</a>, <em>Mechanical System and Signal Processing (MSSP)</em> 131, 524-537 (2019).
         
         
     </div>
