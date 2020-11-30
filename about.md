@@ -8,6 +8,8 @@ layout: page
 
 <h2>News</h2>
 <ul class="skill-list">
+    <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioarxiv: <u>Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</u>. </li>
+     <li><b>November 2020</b> I am giving a guest lecture on <u>information theory in biology</u> for the <b>EE 229A</b> class at UC Berkeley. </li>
     <li><b>November 2020</b> I am giving a talk at <b>BASICS lab in UC Berkeley</b>, titled <u>learning fitness landscapes: time and sample efficient algorithms for protein design</u>. </li>
     <li><b>October 2020</b> BEAR is on arXiv. Check it out here <a href="https://arxiv.org/abs/2010.13829">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>.</li>
     <li><b>September 2020</b> Our collaborative work with the Chemistry Department on <b>Explainable AI for Electron Microscopy</b> is on ChemRxiv. Check out here <a href="https://chemrxiv.org/articles/preprint/Anomalous_Nanoparticle_Surface_Diusion_in_Liquid_Cell_TEM_is_Revealed_by_Deep_Learning-Assisted_Analysis/12894050">Anomalous Nanoparticle Surface Diffusion in Liquid Cell TEM is Revealed by Deep Learning-Assisted Analysis</a>.</li>
