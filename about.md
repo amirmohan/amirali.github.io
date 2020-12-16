@@ -6,6 +6,8 @@ layout: page
 
 <hr>
 
+<center style="font-size:20px"><b><b>I am on the academic job market this year.</b></b></center>
+
 <h2>News</h2>
 <ul class="skill-list">
     <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v1">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>. </li>
@@ -26,7 +28,7 @@ layout: page
 <hr>
 
 <h2>Research Interests</h2>
-<p align="justify"> My expertise is in <b>machine learning (ML), signal processing, inverse problems, and computational biology</b>. <b>I exploit the hidden <b>low-dimensional structures</b> in the high-dimensional data acquired from the <b>complex systems</b> around us to design algorithms that address the statistical and computational challenges of ML towards the ultimate goal of improving <b>generalizability, explainability, and reliability</b> of ML systems</b>. My research contributes to and draws from several disciplines such as optimization, high-dimensional statistics, streaming, combinatorics, information/coding theory, and deep learning. <b>Currently, I am working on the <b>combinatorial aspects of deep neural networks</b> to develop explaniable inference methods for <b>protein design and CRISPR gene editing</b></b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
+<p align="justify"> My expertise is in <b>machine learning (ML), signal processing, inverse problems, and computational biology</b>. I exploit the hidden <b>low-dimensional structures</b> in the high-dimensional data acquired from the <b>complex biological systems</b> to design algorithms that address the statistical and computational challenges of ML towards the ultimate goal of improving <b>generalizability, explainability, and reliability</b> of ML systems for biology. My research contributes to and draws from several disciplines such as optimization, high-dimensional statistics, streaming, combinatorics, information/coding theory, and deep learning. Currently, I am working on the <b>combinatorial aspects of deep neural networks</b> to develop explaniable inference methods for <b>protein design and CRISPR gene editing</b>. The focus of my PhD was on sparsity-enabled methods for rapid DNA sensing and diagnostics.</p>
 
 <hr>
 
