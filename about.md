@@ -23,7 +23,7 @@ layout: page
 <hr>
 
 <h2>Biography</h2>
-<p align="justify"> I am a postdoctoral associate at the <b>University of California, Berkeley</b> in the Department of Electrical Engineering and Computer Science (EECS). I work with <b>Prof. Kannan Ramchandran</b> in the Berkeley Laboratory for Information and System Sciences (BLISS). I also collaborate with <b>Prof. Jennifer Listgarten</b> in the Berkeley Artificial Intelligence Research (BAIR) lab. Prior to that, I was a Postdoctoral Associate at <b>Stanford University</b> working with <b>Prof. David Tse</b> and <b>Prof. James Zou</b>, where I also had collaborations with the <b>Chan Zuckerberg Biohub</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at <b>Rice University</b> with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in the Electrical Engineering (EE) Department at <b>Sharif University of Technology</b>.</p>
+<p align="justify"> I am a postdoctoral associate at the <b>University of California, Berkeley</b> in the Department of Electrical Engineering and Computer Science (EECS). I work with <b>Prof. Kannan Ramchandran</b> in the Berkeley Laboratory for Information and System Sciences (BLISS). I also collaborate with <b>Prof. Jennifer Listgarten</b> in the Berkeley Artificial Intelligence Research (BAIR) lab. Prior to that, I was a Postdoctoral Associate at <b>Stanford University</b> working with <b>Prof. David Tse</b> , where I also had collaborations with the <b>Chan Zuckerberg Biohub</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at <b>Rice University</b> with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in the Electrical Engineering (EE) Department at <b>Sharif University of Technology</b>.</p>
 
 <hr>
 
