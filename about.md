@@ -10,6 +10,7 @@ layout: page
 
 <h2>News</h2>
 <ul class="skill-list">
+    <li><b>Jan-March 2021</b> I am giving invited talks on <b>Inferring Biological Functions with Explainable Algorithms</b> at UW Madison, Johns Hopkins, TTIC, Penn State, Drexel, and Notre Dame.   </li>
     <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v1">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>. </li>
      <li><b>November 2020</b> I am giving a guest lecture on <u>information theory in biology</u> for the <b>EE 229A</b> class at UC Berkeley. </li>
     <li><b>November 2020</b> I am giving a talk at <b>BASICS lab in UC Berkeley</b> on <u>learning fitness landscapes: time and sample efficient algorithms for protein design</u>. </li>
