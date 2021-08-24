@@ -10,8 +10,10 @@ layout: page
 
 <h2>News</h2>
 <ul class="skill-list">
-<li><b>May 2021</b> Our new paper on <b>estimating the sample complexity of protein functions from their structure using compressed sensing</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>. </li>
-    <li><b>April 2021</b> Our paper <a href="https://msml21.github.io/papers/id26.pdf">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>  accepted to the MSML conference!   </li>
+    <li><b>April 2021</b> Our paper <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994.abstract">Epistatic Net Allows the Sparse Spectral Regularization of
+    Deep Neural Networks for Inferring Fitness Functions</a>  is accepted to Nature Communications!   </li>
+    <li><b>May 2021</b> Our new paper on <b>estimating the sample complexity of protein functions from protein structures using compressed sensing</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>. </li>
+    <li><b>April 2021</b> Our paper <a href="https://msml21.github.io/papers/id26.pdf">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>  is accepted to the MSML conference!   </li>
     <li><b>Jan-March 2021</b> I am giving invited talks on <b>Inferring Biological Functions with Explainable Algorithms</b> at UW Madison, Johns Hopkins, TTIC, Penn State, Drexel, and Notre Dame.   </li>
     <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v1">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>. </li>
      <li><b>November 2020</b> I am giving a guest lecture on <u>information theory in biology</u> for the <b>EE 229A</b> class at UC Berkeley. </li>
