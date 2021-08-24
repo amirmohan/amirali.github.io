@@ -10,7 +10,7 @@ layout: page
 
 <h2>News</h2>
 <ul class="skill-list">
-<li><b>May 2021</b> Our new paper <b>On the sparsity of fitness functions and implications for learning</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>. </li>
+<li><b>May 2021</b> Our new paper on <b>estimating the sample complexity of protein functions from their structure using compressed sensing</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2021.05.24.445506v1.abstract">On the sparsity of fitness functions and implications for learning</a>. </li>
     <li><b>April 2021</b> Our paper <a href="https://msml21.github.io/papers/id26.pdf">BEAR: Sketching BFGS Algorithm for Ultra-High Dimensional Feature Selection in Sublinear Memory</a>  accepted to the MSML conference!   </li>
     <li><b>Jan-March 2021</b> I am giving invited talks on <b>Inferring Biological Functions with Explainable Algorithms</b> at UW Madison, Johns Hopkins, TTIC, Penn State, Drexel, and Notre Dame.   </li>
     <li><b>November 2020</b> Our new paper on <b>combinatorial regularization of deep neural networks</b> is now on bioRxiv: <a href="https://www.biorxiv.org/content/10.1101/2020.11.24.396994v1">Sparse Epistatic Regularization of Deep Neural Networks for Inferring Fitness Functions</a>. </li>
@@ -26,7 +26,7 @@ layout: page
 <hr>
 
 <h2>Biography</h2>
-<p align="justify"> I am a postdoctoral associate at the <b>University of California, Berkeley</b> in the Department of Electrical Engineering and Computer Science (EECS). I work with <b>Prof. Kannan Ramchandran</b> in the Berkeley Laboratory for Information and System Sciences (BLISS). I also collaborate with <b>Prof. Jennifer Listgarten</b> in the Berkeley Artificial Intelligence Research (BAIR) lab. Prior to that, I was a Postdoctoral Associate at <b>Stanford University</b> working with <b>Prof. David Tse</b> , where I also had collaborations with the <b>Chan Zuckerberg Biohub</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at <b>Rice University</b> with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in the Electrical Engineering (EE) Department at <b>Sharif University of Technology</b>.</p>
+<p align="justify"> I am a postdoctoral associate at the <b>University of California, Berkeley</b> in the Department of Electrical Engineering and Computer Science (EECS). I work with <b>Prof. Kannan Ramchandran</b> in the Berkeley Laboratory for Information and System Sciences (BLISS). I also collaborate with <b>Prof. Jennifer Listgarten</b> in the Berkeley Artificial Intelligence Research (BAIR) lab. Prior to that, I was a Postdoctoral Associate at <b>Stanford University</b> working with <b>Prof. David Tse</b>, where I also had collaborations with the <b>Chan Zuckerberg Biohub</b>. I completed my PhD in Electrical and Computer Engineering (ECE) at <b>Rice University</b> with <b>Prof. Richard Baraniuk</b>. I did my undergraduate studies in the Electrical Engineering (EE) Department at <b>Sharif University of Technology</b>.</p>
 
 <hr>
 
